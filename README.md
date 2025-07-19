@@ -118,8 +118,8 @@ Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou encontr
 
 ## 📧 Contato
 
-* **Seu Nome:** Daniel Lemos
-* **LinkedIn:** [Seu perfil do LinkedIn aqui]
-* **Email:** [Seu Email aqui]
+*  **Daniel Lemos**
+* **LinkedIn:** [[https://www.linkedin.com/in/danielvlemos/]]
+* **Email:** [danielvlemos@gmail.com]
 
 ---
